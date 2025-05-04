@@ -11,4 +11,4 @@ This is my personal portfolio website.** You can visit it live here:
 
 ## Contact
 - [Email](dantesan@umich.edu)
-- [LinkedIn](www.linkedin.com/in/dantsan)
+- [LinkedIn](https://www.linkedin.com/in/dantsan)
