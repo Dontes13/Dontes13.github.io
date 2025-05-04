@@ -10,5 +10,5 @@ This is my personal portfolio website.** You can visit it live here:
 - Data Analysis (pandas, matplotlib)
 
 ## Contact
-- [Email](dantesan@umich.edu)
+- [Email](mailto:dantesan@umich.edu)
 - [LinkedIn](https://www.linkedin.com/in/dantsan)
